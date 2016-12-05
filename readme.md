@@ -1,7 +1,7 @@
 ###Getting started
 
 A base project developed using Redux framework with React components using "ecma 6". 
-This set-up is using "react-script" pack to run application ans start server.
+This set-up is using "react-script" pack to run application and start server.
 
 Steps:
 
