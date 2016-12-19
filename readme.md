@@ -1,16 +1,21 @@
-###Getting started
+# Application Name - "redux-slider"
 
 A base project developed using Redux framework with React components using "ecma 6". 
 This set-up is using "react-script" pack to run application and start server.
 
-Steps:
+## Purpose
+Learn redux framework and share clean and easy examples with react freshers
 
-###Set up server
-npm install
+## Prerequisite 
+* Node should pre-installed globally on your computer 
 
-###Start server
-npm start
+## Steps to run the application
+* Set up server
+<strong>npm install</strong>
 
-###Server starts automatically on localhost 
-http://localhost:3000/
+* Start server
+<strong>npm start</strong>
+
+* Server starts automatically on localhost 
+<strong>http://localhost:3000/</strong>
 
